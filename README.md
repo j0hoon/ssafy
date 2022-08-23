@@ -1,2 +1,2 @@
-# ssafy
+# SSAFY
 SSAFY source code
